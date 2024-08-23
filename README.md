@@ -1,18 +1,18 @@
 # MMO_Unity
-## 1. 소개
+## 1. :blue_book: 소개
  * Top-View 3D RPG 게임의 틀과 주로 사용되는 간단한 기능들을 구현하는 것을 목적으로 하는 프로젝트입니다.
  * "**[C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part3: 유니티 엔진 - Rookis**" 강의 영상을 보고 따라 구현하는 방식으로 진행하였습니다.
- * 개발 기간: 2024-05-21 ~ 2024-06-20
-![1](https://github.com/user-attachments/assets/89491631-ac34-4fd9-ba63-ef766cb5f032)
+ * :calendar: 학습 기간: 2024-05-21 ~ 2024-06-20
+![3](https://github.com/user-attachments/assets/f50765bd-1f8c-4858-998b-9ed78e635056)
 <br/><br/>
 
-## 2. 개발 환경
+## 2. :house_with_garden: 개발 환경
  * Unity 2022.3.7f1 LTS
  * C#
  * Windows 10
 <br/><br/>
 
-## 3. 구현 기능
+## 3. :memo: 구현 기능
  * **조작 및 이동**
      * 기본적으로 마우스를 통해 사용자의 입력을 받으며 이동 및 공격을 할 수 있다. 해당 입력은 Input Manager 클래스에 의해 제어
      * Input Manager에서는 사용자의 마우스 입력을 클릭, 클릭 상태 유지, 클릭 중지 등으로 구분하여 그에 맞는 액션을 실행
